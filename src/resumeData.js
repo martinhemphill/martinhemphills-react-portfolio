@@ -94,27 +94,32 @@ let resumeData = {
     {
       "name":"What's In The Pantry?",
       "description":"Food and Cooking Application",
-      "imgurl":"images/portfolio/whats-in-the-pantry-index.png"
+      "imgurl":"images/portfolio/whats-in-the-pantry-index.png",
+      "projecturl":""
     },
     {
       "name":"Workday Planner",
       "description":"A Workday Planning Application",
-      "imgurl":"images/portfolio/workday-planner.png"
+      "imgurl":"images/portfolio/workday-planner.png",
+      "projecturl":""
     },
     {
       "name":"Password Generator",
       "description":"Randomized Password Generator",
-      "imgurl":"images/portfolio/password-generator.png"
+      "imgurl":"images/portfolio/password-generator.png",
+      "projecturl":""
     },
     {
       "name":"Burger Application",
       "description":"Small burger app using SQL and Heroku",
-      "imgurl":"images/portfolio/sql-burger-app.png"
+      "imgurl":"images/portfolio/sql-burger-app.png",
+      "projecturl":""
     },
     {
       "name":"Online/Offline Ledger",
       "description":"Online/Offline Capable Transaction Ledger",
-      "imgurl":"images/portfolio/Ledger.png"
+      "imgurl":"images/portfolio/Ledger.png",
+      "projecturl":"https://budgetofflinehomework.herokuapp.com/"
     }
   ],
   "testimonials":[
